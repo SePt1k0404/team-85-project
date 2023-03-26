@@ -1,0 +1,7 @@
+.section-1 {
+    background-color: orange;
+}
+
+.section-1-p {
+    color: black;
+}
